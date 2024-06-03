@@ -1,61 +1,61 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
+  - Model - 🎓 known
+  - Modeling - 🎓 known
+  - Subject domain - 🎓 known
+  - Algorithm - 🎓 known
+  - Syntax - 🎓 known
+  - Semantics - 🎓 known
+  - Abstraction - 🎓 known
+  - Paradigm - 🎓 known
+  - Programm - 🎓 known
+  - Programming paradigm - 🎓 known
+  - Programming language - 🎓 known
+  - Contract - 🎓 known
+  - Module - 🎓 known
+  - Library - 🎓 known
+  - Package - 🎓 known
+  - Component - 🎓 known
+  - Framework - 🎓 known
+  - Platform - 🎓 known
+  - Source code - 🎓 known
+  - Object code - 🎓 known
+  - Machine code - 🎓 known
   - Microcode
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
+  - Software engineering - 🎓 known
+  - Decomposition - 🎓 known
+  - Control flow - 🎓 known
+  - Data flow - 🎓 known
   - Code reuse
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
+  - Value - 🎓 known
+  - Identifier - 🎓 known
+  - Variable - 🎓 known
+  - Constant - 🎓 known
+  - Scalar - 🎓 known
+  - Literal - 🎓 known
+  - Expression - 🎓 known
+  - Heap - 🎓 known
+  - Function - 🎓 known
+  - Procedure - 🎓 known
+  - Method - 🎓 known
+  - Class - 🎓 known
+  - Prototype - 🎓 known
+  - Event - 🎓 known
+  - Type - 🎓 known
+  - Flag - 🎓 known
+  - Lexical scope - 🎓 known
+  - Code block - 🎓 known
   - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
+  - Loops - 🎓 known
+  - Assignment - 🎓 known
+  - Regular expression - 🎓 known
+  - Interface - 🎓 known
+  - Namespaces - 🎓 known
   - Call stack
   - Naming conventions
   - Coding conventions
@@ -66,9 +66,9 @@
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
+  - Primitive types - 🎓 known
+  - Reference types - 🎓 known
+  - Type systems - 🎓 known
   - Strong typing
   - Weak typing
   - Duck typing
@@ -81,12 +81,12 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
+  - Signature - 🎓 known
+  - Argument - 🎓 known
+  - Parameter - 🎓 known
+  - Pure function - 🎓 known
+  - Lambda expression - 🎓 known
+  - Side effects - 🎓 known
   - Closure
   - Partial application
   - Currying
@@ -105,75 +105,75 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
+  - Array - 🎓 known
+  - Structure - 🎓 known
+  - Record - 🎓 known
+  - Enum - 🎓 known
+  - Instance - 🎓 known
+  - Object - 🎓 known
+  - Collection - 🎓 known
+  - Set - 🎓 known
+  - Hash table - 🎓 known
+  - Linked list - 🎓 known
+  - Doubly list - 🎓 known
+  - Unrolled list - 🎓 known
+  - Circular list - 🎓 known
+  - Queue - 🎓 known
+  - Stack - 🎓 known
   - Deque
-  - Tree
-  - Graph
-  - Iterator
+  - Tree - 🎓 known
+  - Graph - 🎓 known
+  - Iterator - 🎓 known
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing
-  - JSON
-  - JSON5
-  - YAML
+  - String parsing - 🎓 known
+  - JSON - 🎓 known
+  - JSON5 - 🎓 known
+  - YAML - 🎓 known
 - Networking
-  - DNS
+  - DNS - 🎓 known
   - CDN
   - CORS
-  - IPv4
-  - IPv6
+  - IPv4 - 🎓 known
+  - IPv6 - 🎓 known
   - NAT
-  - URL
+  - URL - 🎓 known
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler - 🎓 known
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
   - Linter
-  - Polyfill
-  - Interpreter
-  - Linker
-  - Dynamic linking
-  - Static linking
-  - Runtime
-  - Virtual machine
-  - Register-based VM
-  - Stack-based VM
-  - Containerization
-  - Debugger
-  - Tracing
+  - Polyfill - 🎓 known
+  - Interpreter - 🎓 known
+  - Linker - 🎓 known
+  - Dynamic linking - 🎓 known
+  - Static linking - 🎓 known
+  - Runtime - 🎓 known
+  - Virtual machine - 🎓 known
+  - Register-based VM - 🎓 known
+  - Stack-based VM - 🎓 known
+  - Containerization - 🎓 known
+  - Debugger - 🎓 known
+  - Tracing - 🎓 known
   - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
+  - Refactoring - 🎓 known
+  - Code review - 🎓 known
+  - Exception - 🎓 known
+  - Unittesting - 🎓 known
+  - git - 🎓 known
+  - Github - 🎓 known
+  - Docker - 🎓 known
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
+  - Magic numbers - 🎓 known
+  - Hard code - 🎓 known
+  - Soft code - 🎓 known
   - Cryptic code
   - Improbability factor
   - Accidental complexity
@@ -181,7 +181,7 @@
   - Spaghetti
   - Silver bullet
   - Not invented here
-  - Dead code
+  - Dead code - 🎓 known
   - Unreachable code
   - Duplicate code
   - Premature optimization
@@ -212,28 +212,28 @@
   - Drivers
   - Kernel
   - Ring
-  - Virtual memory
-  - File system
-  - Linux
+  - Virtual memory - 🎓 known
+  - File system - 🎓 known
+  - Linux - 🎓 known
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS - 🎓 known
+  - Windows - 🎓 known
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII - 🎓 known
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64
+  - Base64 - 🎓 known
   - ECMA
   - ICANN
-  - ISO
+  - ISO - 🎓 known
   - MIME
-  - OWASP
-  - UTF-8
+  - OWASP - 🎓 known
+  - UTF-8 - 🎓 known
   - W3C
-  - ODMG
+  - ODMG - 🎓 known

@@ -1,24 +1,24 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
+  - Procedural programming - 🎓 known
+  - Imperative programming - 🎓 known
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming - 🎓 known
   - Prototype-based programming
   - Object-oriented programming
   - Object-based programming
   - Generic programming
   - Concurrent computing
   - Asynchronous programming
-  - Parallel programming
+  - Parallel programming - 🎓 known
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
+  - Multi-paradigm programming - 🎓 known
+  - Metaprogramming - 🎓 known
   - Actor model
   - Lambda calculus
   - Black box
@@ -27,17 +27,17 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
+  - Constructor - 🎓 known
+  - Operator `new` - 🎓 known
+  - Static method - 🎓 known
+  - Method - 🎓 known
+  - Async method - 🎓 known
+  - Getters, Setters - 🎓 known
+  - Public fields - 🎓 known
+  - Private fields - 🎓 known
+  - Field declarations - 🎓 known
+  - Inheritance - 🎓 known
+  - Parent class - 🎓 known
   - Polymorphism
   - Abstract class
   - Interface
@@ -64,21 +64,21 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
+  - Singleton - 🎓 known
+  - Factory Method - 🎓 known
+  - Abstract Factory - 🎓 known
+  - Adapter - 🎓 known
+  - Observer - 🎓 known
+  - Strategy - 🎓 known
+  - Facade - 🎓 known
+  - Proxy - 🎓 known
+  - Chain of Responsibility - 🎓 known
+  - Command - 🎓 known
+  - Iterator - 🎓 known
   - State
   - Bridge
   - Builder
-  - Prototype
+  - Prototype - 🎓 known
   - Composite
   - Decorator
   - Flyweight

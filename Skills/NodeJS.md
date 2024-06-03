@@ -1,8 +1,8 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
+  - Strong and weak sides of node.js - 🎓 known
+  - Stateful and stateless servers - 🎓 known
   - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks
@@ -11,14 +11,14 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
+  - CommonJS modules - 🎓 known
+  - ECMAScript modules - 🎓 known
+  - Module `node:module` - 🎓 known
   - Caching in CJS and ESM
   - Modules as singletons
-  - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Contexts and scripts module `node:vm` - 🎓 known
+  - Dependencies: `npm`, `node_modules` - 🎓 known
+  - Files `package.json`, `package-lock.json` - 🎓 known
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,14 +26,14 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments - 🎓 known
+  - Node.js CLI - 🎓 known
   - Process-based permissions
-  - Graceful shutdown
-  - Clustering
+  - Graceful shutdown - 🎓 known
+  - Clustering - 🎓 known
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
+  - Streams API - 🎓 known
   - Web Streams API
   - Crypto API
   - Password hashing with crypto.scrypt
@@ -60,30 +60,30 @@
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
 - Network
-  - Endpoint throttling
+  - Endpoint throttling - 🎓 known
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates - 🎓 known
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
+  - HTTP(S) - 🎓 known
+  - TCP/SSL - 🎓 known
+  - UDP - 🎓 known
+  - TLS - 🎓 known
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
-  - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - RPC - 🎓 known
+  - Routing - 🎓 known
+  - DoS - 🎓 known
+  - DDoS - 🎓 known
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS - 🎓 known
   - SQL injection
   - noDelay
   - keep-alive

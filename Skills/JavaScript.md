@@ -1,29 +1,29 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
+  - `Object` - 🎓 known
+  - `Function` - 🎓 known
+  - `Boolean` - 🎓 known
+  - `Number` - 🎓 known
+  - `BigInt` - 🎓 known
+  - `String` - 🎓 known
+  - `Symbol` - 🎓 known
+  - `Infinity` - 🎓 known
+  - `NaN` - 🎓 known
+  - `undefined` - 🎓 known
+  - `null` - 🎓 known
+  - `this` - 🎓 known
   - `instanceof`
   - `...spread`
   - `...rest`
   - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
-  - Optional chaining
+  - Destructuring - 🎓 known
+  - Generators - 🎓 known
+  - Iterators - 🎓 known
+  - Async generator - 🎓 known
+  - Async iterator - 🎓 known
+  - Chaining - 🎓 known
+  - Optional chaining - 🎓 known
   - IIFE
   - Async IIFE
   - `global`
@@ -59,22 +59,22 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
+  - `if` - 🎓 known
+  - `while` - 🎓 known
+  - `do..while` - 🎓 known
+  - `for` - 🎓 known
   - `for..in`
   - `for..of`
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
+  - `throw` - 🎓 known
+  - `break` - 🎓 known
+  - `continue` - 🎓 known
+  - `import` - 🎓 known
+  - `export` - 🎓 known
+  - `label` - 🎓 known
+  - `try..catch` - 🎓 known
+  - `switch` - 🎓 known
+  - `class` - 🎓 known
   - `extends`
   - `with`
   - `new`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js - 🎓 known
+  - npm - 🎓 known
   - prettier
   - MDN
   - TC39
